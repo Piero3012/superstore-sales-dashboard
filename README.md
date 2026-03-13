@@ -5,7 +5,7 @@ El objetivo es identificar tendencias de ventas, rendimiento por región y produ
 
 ## Dashboard
 
-![Dashboard](images/dashboard.png)
+![Dashboard](dashboard.PNG)
 
 ## Herramientas utilizadas
 

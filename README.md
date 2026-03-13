@@ -43,5 +43,5 @@ El dataset contiene información de:
 
 ## Archivos
 
-- `dashboard/superstore_dashboard.pbix` → dashboard completo
-- `data/superstore.csv` → dataset utilizado
+- `SuperStore_Dashboard.pbix` → dashboard completo
+- `data/train.csv` → dataset utilizado
